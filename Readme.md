@@ -26,7 +26,7 @@ S(x) created with those same nodes. This makes sense, as we are not garunteed in
 
 The runable file. The file provides code for interpolating tanh(x) with equally spaced nodes/knots using a polynomial vs. with a cubic spline. 
 - In order to demonstrate the findings of Task 1 graphically, run the section titled "Using 11 Equally Spaced Nodes/Knots on Interval [-3, 3]", by clicking on that section and clicking the "Run Section" button
-- In order to demonstrate the findings of Task 1 graphically, run the section titled "On the Interval [-5, 5], with many Nodes/Knots", by clicking on that section and clicking the "Run Section" button
+- In order to demonstrate the findings of Task 2 graphically, run the section titled "On the Interval [-5, 5], with many Nodes/Knots", by clicking on that section and clicking the "Run Section" button
 
 ### Helper Functions
 
